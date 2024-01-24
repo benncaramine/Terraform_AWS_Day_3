@@ -1,4 +1,4 @@
-# Automate ReactJS Application Deployments using Terraform
+# Automate ReactJS Application Deployments using AWS Pipeline (CI/CD) and Terraform
 
 This repository contains the necessary configuration files and scripts to automate the deployment of a ReactJS application using Terraform. Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. This setup allows you to deploy your ReactJS application to a cloud provider of your choice (e.g., AWS, Azure, Google Cloud) with ease and efficiency.
 
